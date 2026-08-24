@@ -1,6 +1,6 @@
-# Initial design principles
+# Movune design principles
 
-FisioFlow's first UI/UX direction aims for an operational SaaS that is calm, legible and efficient without looking clinical or bureaucratic.
+These principles began during the FisioFlow exploration and continue under the official Movune name. The UI/UX direction aims for an operational SaaS that is calm, legible and efficient without looking clinical or bureaucratic.
 
 ## Experience principles
 

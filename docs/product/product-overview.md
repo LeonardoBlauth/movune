@@ -1,4 +1,4 @@
-# FisioFlow product overview
+# Movune product overview
 
 ## Problem
 
@@ -6,7 +6,7 @@ Small and medium-sized physiotherapy and Pilates clinics often combine paper rec
 
 ## Product direction
 
-FisioFlow is a B2B SaaS designed to keep the clinic's daily operation in one workspace. A person has a single administrative identity inside a clinic and can participate in physiotherapy and Pilates journeys without duplicating their history.
+Movune is a B2B SaaS designed to keep the clinic's daily operation in one workspace. The project was initially known as FisioFlow. A person has a single administrative identity inside a clinic and can participate in physiotherapy and Pilates journeys without duplicating their history.
 
 The initial product direction assumes:
 

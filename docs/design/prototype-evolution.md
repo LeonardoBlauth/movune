@@ -2,6 +2,8 @@
 
 This document records verified prototype milestones without claiming that simulated behavior is production-ready.
 
+The prototype began as FisioFlow and later adopted the official Movune name. Earlier sections intentionally preserve the name visible at each stage.
+
 ## First navigable FisioFlow slice
 
 The initial prototype introduced a shared shell and four navigable areas:
@@ -40,3 +42,7 @@ Conflict scenarios now identify professional, room or equipment and preserve the
 ## Finite recurrence preview
 
 The schedule editor gained non-recurring and recurring modes, weekday-specific times and a preview of date range, totals, capacity, conflicts and plan eligibility. Fixed fictional scenarios demonstrate validation and scope decisions; they do not represent a production recurrence engine.
+
+## Rename to Movune
+
+The product name changed from FisioFlow to Movune after the core scheduling and Pilates rules had been consolidated. The rename did not alter the approved product scope, 23 priority flows or planned interface inventory. Visual identity changes followed as a distinct design step.

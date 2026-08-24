@@ -1,16 +1,18 @@
-# FisioFlow
+# Movune
 
-A management platform for physiotherapy and Pilates clinics in Brazil.
+**Your clinic in motion.**
 
-FisioFlow is being designed as a multi-tenant B2B SaaS for small and medium-sized clinics. Its goal is to connect scheduling, patient administration, clinical work, Pilates operations, packages, finance and communication without mixing clinical, administrative and financial access.
+Movune is a multi-tenant B2B SaaS in development for small and medium-sized physiotherapy and Pilates clinics in Brazil. It connects scheduling, patient administration, clinical work, Pilates operations, packages, finance and communication without mixing clinical, administrative and financial access.
+
+The project was initially developed under the working name FisioFlow. Movune combines the ideas of movement and connection and is now the official product name.
 
 > 🚧 Currently in product design and prototyping.
 
 ## Status
 
-- Initial product scope defined
-- Core workflows and interface architecture in progress
-- Prototype planning in progress
+- Product scope, workflows and interface architecture defined
+- Interactive prototype under active validation
+- Product is not yet a production system
 
 ## Product documentation
 
@@ -22,6 +24,6 @@ FisioFlow is being designed as a multi-tenant B2B SaaS for small and medium-size
 
 ## License
 
-FisioFlow is being developed as a commercial product.
+Movune is being developed as a commercial product.
 
 No open-source license has been defined.
