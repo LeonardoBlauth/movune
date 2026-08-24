@@ -45,6 +45,17 @@ Movune adds a movement-and-connection brand concept, a teal institutional palett
 
 The desktop shell uses a compact, recognizable sidebar and a minimal top bar. Mobile receives a dedicated priority navigation rather than a compressed desktop sidebar.
 
+## Current shell behavior
+
+- desktop sidebar is compact by default and expands on hover;
+- the Movune symbol remains visible in compact mode;
+- the top bar is visually integrated with the content through a restrained divider;
+- dark mode uses neutral graphite surfaces with teal reserved for brand and active states;
+- global and contextual add actions share the same brand token;
+- major overlays close by outside click or `Esc` when it is safe to do so.
+
+Appearance preferences use visual choices for light, dark or system theme and text scales of 100%, 114% and 128%. A previously explored density preference was removed from the current prototype to reduce unnecessary complexity.
+
 ## Semantic feedback
 
 Actions use four explicit feedback meanings: success, error, warning and information. Each message combines text and iconography instead of relying on color alone.

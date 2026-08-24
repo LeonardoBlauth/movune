@@ -50,3 +50,11 @@ The product name changed from FisioFlow to Movune after the core scheduling and 
 ## First Movune identity application
 
 The prototype adopted the Movune name, circular M concept, teal palette and updated typography across the shared shell, Dashboard, Schedule, Patients and Patient profile. The Dashboard shifted toward today's operation, and schedule cards separated service from appointment status. The first application exposed new visual issues that were refined afterward.
+
+## Current Movune prototype
+
+Review of the first branded screens led to a quieter dark theme, persistent compact logo, hover expansion for the desktop sidebar, a visually integrated top bar and consistent add-action colors. Spacing and logo alignment were corrected across the shell.
+
+The appearance menu now presents theme and text size as selectable cards. Density was removed, and the text scales were increased enough to produce meaningful differences. Overlays close predictably through outside click, backdrop or `Esc` while preserving interaction inside them.
+
+The current prototype remains a navigable simulation of Dashboard, Schedule, Patients and Patient profile. Other planned modules are represented as future areas, and no claim is made that all 84 planned surfaces, backend persistence or live integrations are implemented.
