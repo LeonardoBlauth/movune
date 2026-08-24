@@ -16,6 +16,7 @@ FisioFlow is being designed as a multi-tenant B2B SaaS for small and medium-size
 
 - [Product overview](docs/product/product-overview.md)
 - [Core product flows](docs/product/core-flows.md)
+- [Interface architecture](docs/product/interface-architecture.md)
 
 ## License
 
