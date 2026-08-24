@@ -38,3 +38,15 @@ Desktop prioritizes dense daily operation. Tablet and mobile reorganize navigati
 ## Accessibility baseline
 
 The direction targets WCAG 2.2 AA contrast, keyboard navigation, screen-reader semantics, reduced motion support, touch-friendly targets and text enlargement without loss of content or function.
+
+## Semantic feedback
+
+Actions use four explicit feedback meanings: success, error, warning and information. Each message combines text and iconography instead of relying on color alone.
+
+- transient feedback confirms immediate local results;
+- blocking validation remains visible beside the affected context;
+- recoverable failures offer a safe next action;
+- external operations begin as requested or processing and only report completion after confirmation;
+- persistent integration failures remain discoverable in notifications or tasks.
+
+Feedback never includes clinical or financial detail that the current viewer is not authorized to see.

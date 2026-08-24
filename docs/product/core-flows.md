@@ -71,3 +71,7 @@ An individual care appointment continues to select one patient. A Pilates class 
 - a full occurrence can offer a waiting-list path;
 - adding or cancelling one participant changes only that reservation;
 - selecting the same class and interval reuses the existing occurrence instead of creating a duplicate.
+
+## Feedback across flows
+
+Create, edit, removal, configuration and integration requests return a semantic result in the action context. An external failure does not silently undo a successful local save; it creates a visible pending state and a retry path when safe. Messages distinguish the saved domain object from follow-up processing such as messaging or calendar synchronization.

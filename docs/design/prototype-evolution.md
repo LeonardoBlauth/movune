@@ -28,3 +28,7 @@ The appointment editor gained an action to create a patient without abandoning t
 ## Collective Pilates occurrence
 
 The prototype replaced the single-patient assumption for Pilates with one class occurrence containing multiple participants. Schedule cards show occupancy, class details expose an individual roster, and participant addition demonstrates capacity, duplicate prevention and waiting-list states. The prototype still uses fictional fixed scenarios rather than a complete scheduling engine.
+
+## Semantic action feedback
+
+The prototype introduced consistent success, error, warning and information messages with titles, descriptions, dismiss actions and recoverable next steps. Simulated WhatsApp and calendar operations distinguish a local save from external processing and failure.
