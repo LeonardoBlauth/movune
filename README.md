@@ -1,16 +1,20 @@
 # FisioFlow
 
-A modern management platform for physiotherapy and Pilates clinics.
+A management platform for physiotherapy and Pilates clinics in Brazil.
 
-FisioFlow is a B2B SaaS for small and medium-sized clinics in Brazil, designed to centralize scheduling, patients, clinical workflows, Pilates classes, packages, finance, communication and daily operations.
+FisioFlow is being designed as a multi-tenant B2B SaaS for small and medium-sized clinics. Its goal is to connect scheduling, patient administration, clinical work, Pilates operations, packages, finance and communication without mixing clinical, administrative and financial access.
 
 > 🚧 Currently in product design and prototyping.
 
 ## Status
 
-- Product definition in progress
-- User flows being defined
+- Initial product scope defined
+- Core workflows and interface architecture in progress
 - Prototype planning in progress
+
+## Product documentation
+
+- [Product overview](docs/product/product-overview.md)
 
 ## License
 
