@@ -48,3 +48,7 @@ The product is in definition and prototyping. This document records product inte
 ## Collective Pilates model
 
 Pilates is modeled as a collective occurrence for a class and time interval rather than a collection of unrelated individual appointments. Capacity belongs to the applicable class and resources, while reservation, contract, confirmation, attendance and credit consumption remain individual for every participant.
+
+## Finite recurring schedules
+
+Recurring schedules are bounded by treatment or participation plans. A series can use several weekdays with a different time on each day. It is previewed before creation and never produces an open-ended sequence.

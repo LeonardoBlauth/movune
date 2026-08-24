@@ -36,3 +36,7 @@ The prototype introduced consistent success, error, warning and information mess
 ## Deterministic scheduling states
 
 Conflict scenarios now identify professional, room or equipment and preserve the form while offering alternatives. Cancelled events disappear from the operational grid but remain visible in the fictional patient's timeline. Pilates cancellation releases an individual place without removing the collective occurrence.
+
+## Finite recurrence preview
+
+The schedule editor gained non-recurring and recurring modes, weekday-specific times and a preview of date range, totals, capacity, conflicts and plan eligibility. Fixed fictional scenarios demonstrate validation and scope decisions; they do not represent a production recurrence engine.

@@ -83,3 +83,11 @@ Active appointments cannot overlap when they reserve the same professional, room
 The scheduling flow identifies the conflicting resource and can suggest a different time or room while preserving the draft. If the occupied slot is the same Pilates class, the user is directed to add participants to that occurrence subject to capacity.
 
 Cancellation and late cancellation immediately release the reserved slot and resources. Cancelled records leave the operational grid but remain in patient history and audit records with status and reason. Financial or credit consequences continue to follow the applicable policy and are not inferred from grid visibility.
+
+## Plan-based recurrence
+
+Scheduling offers a single occurrence or a finite weekly series. A recurring series requires a plan with an end date and supports multiple weekdays with an independent time for each day.
+
+Before creation, the user reviews the first and last dates, occurrence count, resource conflicts, capacity and participant eligibility. For a collective occurrence, the series can extend to the latest participant plan end date, but each occurrence includes only participants eligible on that date. Empty occurrences are not created.
+
+Editing or cancelling a member of a series requires an explicit scope: only this occurrence, this and future occurrences, or the entire series. The selected scope is revalidated against resources, capacity, plans and contracts.

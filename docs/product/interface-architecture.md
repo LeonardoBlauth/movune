@@ -60,3 +60,7 @@ The schedule editor switches between single-patient selection and multi-particip
 ## Availability update
 
 The schedule grid contains active operational events only. Cancelled events remain reachable through patient history and audit views. The appointment editor exposes the resource causing a conflict, alternative choices and the existing-class path for Pilates. Availability views exclude cancelled reservations from resource calculations.
+
+## Recurrence update
+
+The appointment editor now contains a recurrence mode, weekday/time rows and a series preview. Treatment-plan views expose the dates needed to validate the series, and Pilates participant management previews eligibility by occurrence. The update preserves the existing screen inventory through dialogs and contextual states.
