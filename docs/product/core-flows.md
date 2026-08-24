@@ -75,3 +75,11 @@ An individual care appointment continues to select one patient. A Pilates class 
 ## Feedback across flows
 
 Create, edit, removal, configuration and integration requests return a semantic result in the action context. An external failure does not silently undo a successful local save; it creates a visible pending state and a retry path when safe. Messages distinguish the saved domain object from follow-up processing such as messaging or calendar synchronization.
+
+## Scheduling availability and cancellation
+
+Active appointments cannot overlap when they reserve the same professional, room or equipment. This is a hard availability rule; permission does not bypass a real competing reservation. Parallel care remains possible when resources are distinct.
+
+The scheduling flow identifies the conflicting resource and can suggest a different time or room while preserving the draft. If the occupied slot is the same Pilates class, the user is directed to add participants to that occurrence subject to capacity.
+
+Cancellation and late cancellation immediately release the reserved slot and resources. Cancelled records leave the operational grid but remain in patient history and audit records with status and reason. Financial or credit consequences continue to follow the applicable policy and are not inferred from grid visibility.

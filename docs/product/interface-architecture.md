@@ -56,3 +56,7 @@ The appointment editor and quick patient registration now form a subflow. Regist
 ## Collective Pilates update
 
 The schedule editor switches between single-patient selection and multi-participant selection based on the service. Schedule cards summarize class and occupancy, while class detail exposes a participant roster and contextual bulk addition. Capacity, waiting-list and individual participant states are expressed through existing schedule and Pilates surfaces.
+
+## Availability update
+
+The schedule grid contains active operational events only. Cancelled events remain reachable through patient history and audit views. The appointment editor exposes the resource causing a conflict, alternative choices and the existing-class path for Pilates. Availability views exclude cancelled reservations from resource calculations.

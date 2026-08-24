@@ -32,3 +32,7 @@ The prototype replaced the single-patient assumption for Pilates with one class 
 ## Semantic action feedback
 
 The prototype introduced consistent success, error, warning and information messages with titles, descriptions, dismiss actions and recoverable next steps. Simulated WhatsApp and calendar operations distinguish a local save from external processing and failure.
+
+## Deterministic scheduling states
+
+Conflict scenarios now identify professional, room or equipment and preserve the form while offering alternatives. Cancelled events disappear from the operational grid but remain visible in the fictional patient's timeline. Pilates cancellation releases an individual place without removing the collective occurrence.
