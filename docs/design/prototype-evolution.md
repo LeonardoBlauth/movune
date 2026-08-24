@@ -20,3 +20,7 @@ The first review grouped small visual issues instead of treating each as a produ
 ## Limits at this stage
 
 The prototype was a front-end demonstration. It did not prove backend persistence, real integrations, a complete permissions engine or implementation of all planned surfaces. Pilates could appear in the schedule, but the collective attendance model had not yet been demonstrated.
+
+## Contextual registration in scheduling
+
+The appointment editor gained an action to create a patient without abandoning the form. The prototype demonstrated preserved appointment data, duplicate and recoverable-error states, automatic selection after creation and distinct feedback for each saved object.

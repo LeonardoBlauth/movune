@@ -48,3 +48,7 @@ Mobile is treated as a task-focused layout, not a scaled-down desktop. Navigatio
 - tenant, clinic and unit context must never be ambiguous;
 - status, errors, loading and empty states are part of every surface;
 - charts require a meaningful comparison and an accessible alternative.
+
+## Contextual registration update
+
+The appointment editor and quick patient registration now form a subflow. Registration opens over the schedule, preserves the appointment draft and returns the newly created patient to the selector. This change uses existing surfaces rather than adding a new route to the architecture.

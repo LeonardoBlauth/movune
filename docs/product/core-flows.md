@@ -48,3 +48,15 @@ FisioFlow's initial workflow map covers the clinic lifecycle from account setup 
 ## Flow invariants
 
 Every flow must preserve tenant isolation, permissions, auditability and recoverable failure states. This is a product blueprint; integrations and business engines are not yet implemented.
+
+## Contextual patient registration
+
+Scheduling now supports a lightweight registration subflow when a search does not find the patient:
+
+1. keep the appointment form and its current values;
+2. open the minimum patient registration in context;
+3. check likely duplicates before creating a record;
+4. return to scheduling with the new patient selected;
+5. report patient creation and appointment creation as separate outcomes.
+
+The regular Patients area remains available for standalone registration. The contextual flow reduces navigation without weakening identity checks.
