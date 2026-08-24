@@ -44,3 +44,7 @@ Advanced CRM, deeper automation, intelligence features and broader integrations 
 ## Current stage
 
 The product is in definition and prototyping. This document records product intent, not proof of a production implementation.
+
+## Collective Pilates model
+
+Pilates is modeled as a collective occurrence for a class and time interval rather than a collection of unrelated individual appointments. Capacity belongs to the applicable class and resources, while reservation, contract, confirmation, attendance and credit consumption remain individual for every participant.

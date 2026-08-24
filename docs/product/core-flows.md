@@ -60,3 +60,14 @@ Scheduling now supports a lightweight registration subflow when a search does no
 5. report patient creation and appointment creation as separate outcomes.
 
 The regular Patients area remains available for standalone registration. The contextual flow reduces navigation without weakening identity checks.
+
+## Collective Pilates scheduling
+
+An individual care appointment continues to select one patient. A Pilates class uses one collective occurrence with multiple participant reservations.
+
+- the participant list respects class and resource capacity;
+- the same person cannot be added twice;
+- each participant keeps independent contract, confirmation, attendance and credit state;
+- a full occurrence can offer a waiting-list path;
+- adding or cancelling one participant changes only that reservation;
+- selecting the same class and interval reuses the existing occurrence instead of creating a duplicate.

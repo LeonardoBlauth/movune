@@ -52,3 +52,7 @@ Mobile is treated as a task-focused layout, not a scaled-down desktop. Navigatio
 ## Contextual registration update
 
 The appointment editor and quick patient registration now form a subflow. Registration opens over the schedule, preserves the appointment draft and returns the newly created patient to the selector. This change uses existing surfaces rather than adding a new route to the architecture.
+
+## Collective Pilates update
+
+The schedule editor switches between single-patient selection and multi-participant selection based on the service. Schedule cards summarize class and occupancy, while class detail exposes a participant roster and contextual bulk addition. Capacity, waiting-list and individual participant states are expressed through existing schedule and Pilates surfaces.

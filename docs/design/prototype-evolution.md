@@ -24,3 +24,7 @@ The prototype was a front-end demonstration. It did not prove backend persistenc
 ## Contextual registration in scheduling
 
 The appointment editor gained an action to create a patient without abandoning the form. The prototype demonstrated preserved appointment data, duplicate and recoverable-error states, automatic selection after creation and distinct feedback for each saved object.
+
+## Collective Pilates occurrence
+
+The prototype replaced the single-patient assumption for Pilates with one class occurrence containing multiple participants. Schedule cards show occupancy, class details expose an individual roster, and participant addition demonstrates capacity, duplicate prevention and waiting-list states. The prototype still uses fictional fixed scenarios rather than a complete scheduling engine.
