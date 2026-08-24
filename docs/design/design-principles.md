@@ -39,6 +39,12 @@ Desktop prioritizes dense daily operation. Tablet and mobile reorganize navigati
 
 The direction targets WCAG 2.2 AA contrast, keyboard navigation, screen-reader semantics, reduced motion support, touch-friendly targets and text enlargement without loss of content or function.
 
+## Movune identity layer
+
+Movune adds a movement-and-connection brand concept, a teal institutional palette, Manrope headings and Inter interface text. Institutional color remains separate from semantic state and service colors. Schedule items therefore communicate appointment status and service type through independent visual and textual channels.
+
+The desktop shell uses a compact, recognizable sidebar and a minimal top bar. Mobile receives a dedicated priority navigation rather than a compressed desktop sidebar.
+
 ## Semantic feedback
 
 Actions use four explicit feedback meanings: success, error, warning and information. Each message combines text and iconography instead of relying on color alone.

@@ -20,6 +20,7 @@ The project was initially developed under the working name FisioFlow. Movune com
 - [Core product flows](docs/product/core-flows.md)
 - [Interface architecture](docs/product/interface-architecture.md)
 - [Design principles](docs/design/design-principles.md)
+- [Brand foundations](docs/design/brand-foundations.md)
 - [Prototype evolution](docs/design/prototype-evolution.md)
 
 ## License

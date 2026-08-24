@@ -46,3 +46,7 @@ The schedule editor gained non-recurring and recurring modes, weekday-specific t
 ## Rename to Movune
 
 The product name changed from FisioFlow to Movune after the core scheduling and Pilates rules had been consolidated. The rename did not alter the approved product scope, 23 priority flows or planned interface inventory. Visual identity changes followed as a distinct design step.
+
+## First Movune identity application
+
+The prototype adopted the Movune name, circular M concept, teal palette and updated typography across the shared shell, Dashboard, Schedule, Patients and Patient profile. The Dashboard shifted toward today's operation, and schedule cards separated service from appointment status. The first application exposed new visual issues that were refined afterward.
