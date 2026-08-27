@@ -1,14 +1,18 @@
 # Movune product overview
 
-## Problem
+## Origin
 
-Small and medium-sized physiotherapy and Pilates clinics often combine paper records, spreadsheets, generic calendars and disconnected systems. The result is repeated data entry, scheduling conflicts, weak operational visibility and fragmented follow-up across care, classes, packages and payments.
+Movune started from a real operational need observed in a small physiotherapy and Pilates clinic that struggled to adapt its workflow to the management software it had tried.
+
+The initial context is intentionally simple: a single clinic operated by a single professional, combining physiotherapy and Pilates activities.
+
+The project began by exploring how software could better support that operation. As requirements, workflows and interface decisions were developed, the scope expanded to consider more complex clinic structures and operational needs.
 
 ## Product direction
 
-Movune is a B2B SaaS designed to keep the clinic's daily operation in one workspace. The project was initially known as FisioFlow. A person has a single administrative identity inside a clinic and can participate in physiotherapy and Pilates journeys without duplicating their history.
+Movune explores a clinic management platform that brings scheduling, patient administration, clinical workflows, Pilates operations, packages, finance and communication into a connected workspace. A person has a single administrative identity inside a clinic and can participate in physiotherapy and Pilates journeys without duplicating their history.
 
-The initial product direction assumes:
+The current direction considers scenarios beyond the initial clinic, including:
 
 - isolated clinic accounts in a multi-tenant platform;
 - support for multiple units, professionals and users;
@@ -17,9 +21,11 @@ The initial product direction assumes:
 - traceable changes for sensitive records;
 - accessible light and dark themes with adjustable text size.
 
+These scenarios represent the current product direction and may evolve as the initial workflows are prototyped, tested and refined.
+
 ## Initial scope
 
-The first sellable release is expected to cover:
+The current scope includes:
 
 - dashboard and operational tasks;
 - scheduling and resource availability;
@@ -31,7 +37,7 @@ The first sellable release is expected to cover:
 - documents, transactional communication and notifications;
 - users, permissions, clinic settings and personal preferences.
 
-Advanced CRM, deeper automation, intelligence features and broader integrations remain later-stage opportunities. They must not complicate the core clinic workflow.
+Advanced CRM, deeper automation, intelligence features and broader integrations remain possible later-stage directions and should not complicate the core clinic workflow.
 
 ## Product principles
 
@@ -43,7 +49,11 @@ Advanced CRM, deeper automation, intelligence features and broader integrations 
 
 ## Current stage
 
-The product is in definition and prototyping. This document records product intent, not proof of a production implementation.
+Movune is currently in product definition and prototyping.
+
+The current documentation describes intended product behavior and decisions being explored. It should not be interpreted as proof of a production implementation.
+
+The prototype is being used to refine the initial workflows before defining the MVP and technical architecture.
 
 ## Collective Pilates model
 

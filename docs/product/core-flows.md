@@ -1,6 +1,6 @@
 # Core product flows
 
-Movune's workflow map covers the clinic lifecycle from account setup to daily operation and reporting. The internal specification contains 23 priority flows; this public summary groups them without exposing implementation-level detail.
+Movune's current workflow map explores the clinic lifecycle from account setup to daily operation and reporting. The internal specification contains 23 priority flows; this public summary groups them without exposing implementation-level detail.
 
 ## Clinic setup and access
 
